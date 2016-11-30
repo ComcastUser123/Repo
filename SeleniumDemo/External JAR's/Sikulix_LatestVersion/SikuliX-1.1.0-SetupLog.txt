@@ -1,0 +1,51 @@
+[debug (11/28/16 3:39:58 PM)] Debug: setLogFile: D:\Selenium_Learning_Projects\External JAR's\Sikulix_LatestVersion\SikuliX-1.1.0-SetupLog.txt
+[debug (11/28/16 3:39:58 PM)] RunSetup: ... starting with no args given
+[debug (11/28/16 3:39:58 PM)] RunSetup: Setup: 1.1.0 2015-10-06_17:22 in folder:
+D:\Selenium_Learning_Projects\External JAR's\Sikulix_LatestVersion
+[debug (11/28/16 3:39:58 PM)] RunSetup: RunningSystem: Windows 6.1
+[debug (11/28/16 3:39:58 PM)] RunSetup: parent of jar/classes: D:\Selenium_Learning_Projects\External JAR's\Sikulix_LatestVersion
+[debug (11/28/16 3:39:58 PM)] RunSetup: RunningJava: Java 8 (amd64) 1.8.0_111-b14
+[debug (11/28/16 3:39:58 PM)] init user preferences
+[debug (11/28/16 3:40:09 PM)] RunSetup: 
+popAsk: --------------------
+The following file(s) will be downloaded to
+D:\Selenium_Learning_Projects\External JAR's\Sikulix_LatestVersion
+--- Native support libraries for Windows (sikulixlibs...)
+--- Package 2 ---
+sikulixsetupAPI-1.1.0-forsetup.jar (Java API)
+Only click NO, if you want to terminate setup now!
+Click YES even if you want to use local copies in Downloads!
+--------------------
+[debug (11/28/16 3:40:32 PM)] FileManager: Downloading sikulixlibswin-1.1.0.jar with unknown size
+[error (11/28/16 3:40:53 PM)] FileManager: problems while downloading
+java.net.ConnectException: Connection timed out: connect
+[debug (11/28/16 3:41:17 PM)] FileManager: Downloading sikulixsetupAPI-1.1.0-forsetup.jar with unknown size
+[error (11/28/16 3:41:38 PM)] FileManager: problems while downloading
+java.net.ConnectException: Connection timed out: connect
+[debug (11/28/16 3:41:41 PM)] RunSetup: Download ended
+[debug (11/28/16 3:41:41 PM)] RunSetup: Downloads for selected options:
+sikulixlibswin-1.1.0.jar sikulixsetupAPI-1.1.0-forsetup.jar 
+[debug (11/28/16 3:41:41 PM)] RunSetup: 
+popError: --------------------
+Some of the downloads did not complete successfully.
+Check the logfile for possible error causes.
+If you think, setup's inline download is blocked somehow on
+your system, you might download the appropriate raw packages manually
+into the folder Downloads in the setup folder and run setup again.
+download page: https://launchpad.net/raiman/sikulix2013+/1.1.0
+files to download (information is in the setup log file too)
+sikulixlibswin-1.1.0.jar
+sikulixsetupAPI-1.1.0-forsetup.jar
+Be aware: The raw packages are not useable without being processed by setup!
+For other reasons, you might simply try to run setup again.
+--------------------
+[error (11/28/16 3:41:43 PM)] RunSetup: download not completed successfully
+[error (11/28/16 3:41:43 PM)] RunSetup: ... terminated abnormally :-(
+[debug (11/28/16 3:41:43 PM)] RunSetup: 
+popError: --------------------
+Something serious happened! Sikuli not useable!
+Check the error log at D:\Selenium_Learning_Projects\External JAR's\Sikulix_LatestVersion\SikuliX-1.1.0-SetupLog.txt
+--------------------
+[debug (11/28/16 3:41:44 PM)] RunTimeSETUP: final cleanup
+[debug (11/28/16 3:41:44 PM)] FileManager: deleteFileOrFolder:
+C:\Users\589478\AppData\Local\Temp\Sikulix_1136210542

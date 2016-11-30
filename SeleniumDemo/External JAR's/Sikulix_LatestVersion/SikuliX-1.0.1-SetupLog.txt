@@ -1,0 +1,21 @@
+[debug (11/28/16 3:43:03 PM)] RunSetup: SikuliX Setup Build: 1.0.1 12NOV2013120000
+[debug (11/28/16 3:43:03 PM)] RunSetup: ... starting with no args given
+[debug (11/28/16 3:43:03 PM)] RunSetup: syspath: D:\Selenium_Learning_Projects\External JAR's\Sikulix_LatestVersion\libs
+[debug (11/28/16 3:43:03 PM)] RunSetup: syspath: C:\ProgramData\Oracle\Java\javapath
+[debug (11/28/16 3:43:03 PM)] RunSetup: syspath: C:\Program Files\Java\jre1.8.0_101\bin
+[debug (11/28/16 3:43:03 PM)] RunSetup: syspath: C:\Program Files\TortoiseSVN\bin
+[debug (11/28/16 3:43:03 PM)] RunSetup: syspath: C:\Program Files\Java\jdk1.8.0_91\bin
+[debug (11/28/16 3:43:03 PM)] RunSetup: syspath: C:\Program Files\apache-maven-3.3.9\bin
+[debug (11/28/16 3:43:03 PM)] RunSetup: syspath: D:\Selenium_Learning_Projects\External JAR's\Sikuli\libs
+[debug (11/28/16 3:43:03 PM)] RunSetup: user home: C:\Users\589478
+[debug (11/28/16 3:43:05 PM)] RunSetup: RunningSystem: Windows 6.1
+[debug (11/28/16 3:43:05 PM)] RunSetup: parent of jar/classes: D:/Selenium_Learning_Projects/External JAR's/Sikulix_LatestVersion/
+[debug (11/28/16 3:43:05 PM)] RunSetup: RunningJava: Java 8 (amd64) 1.8.0_91-b14
+[debug (11/28/16 3:43:05 PM)] RunSetup: ... could not detect whether Sikuli is used the first time on this system
+[debug (11/28/16 3:43:37 PM)] FileManager: Downloading 1.0.1-3.jar having -1 KB
+[error (11/28/16 3:43:58 PM)] FileManager: problems while downloading
+Connection timed out: connect
+[error (11/28/16 3:44:01 PM)] RunSetup: Fatal error 001: not able to download: 1.0.1-3.jar
+[debug (11/28/16 3:44:01 PM)] RunSetup: Download ended
+[error (11/28/16 3:44:49 PM)] RunSetup: download not completed successfully
+[error (11/28/16 3:44:49 PM)] RunSetup: ... terminated abnormally :-(
